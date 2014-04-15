@@ -12,6 +12,10 @@ submitted to ActiveState by Ulrich Hoffman.
 The documentation provided therein follows and is assumed
 to be under the Creative Commons Attribution 3.0 license.
 
+Install with pip or easy_install::
+
+   sudo pip install xpermutations
+
 
 Recipe Documentation (Ulrich Hoffman)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +74,7 @@ Home Page & Repository
 
 Home Page: https://pypi.python.org/pypi/xpermutations/
 
-Repository: https://github.com/jstroud/xpermutations/
+Repository: https://github.com/jcstroud/xpermutations/
 
 
 Examples
